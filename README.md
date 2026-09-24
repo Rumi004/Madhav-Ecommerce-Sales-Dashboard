@@ -37,7 +37,7 @@ The objective of this project is to transform ecommerce sales data into an inter
 
 ## 📊 Dashboard
 
-![Madhav Ecommerce Sales Dashboard](images/BI dashboard.png)
+![Madhav Ecommerce Sales Dashboard](images/dashboard.png)
 
 The dashboard provides an interactive overview of ecommerce sales and profitability using KPI cards, charts, filters and visualizations.
 
